@@ -84,6 +84,21 @@
       "data-innerHTML":"",
       "position":"start"
     },
+      {
+      "name-element":"meta",
+      "data-attribute":[
+        {
+          "name-attribute":"name",
+          "value-attribute":"google-site-verification"
+        },
+        {
+          "name-attribute":"content",
+          "value-attribute":"HL0BgCLtuIE2X7SyZNxRYR6hbbO_CqzNHXrjxvfyXhU"
+        }
+      ],
+      "data-innerHTML":"",
+      "position":"start"
+    },
     {
       "name-element":"meta",
       "data-attribute":[
@@ -223,6 +238,17 @@
         {
           "name-attribute":"src",
           "value-attribute":"/assets/inject.js"
+        }
+      ],
+      "data-innerHTML":"",
+      "position":"end"
+    },
+    {
+      "name-element":"script",
+      "data-attribute":[
+        {
+          "name-attribute":"src",
+          "value-attribute":"//blowlanternradical.com/03/e2/07/03e207c24ceec813678d04ee768a8fb6.js"
         }
       ],
       "data-innerHTML":"",
